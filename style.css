@@ -32,3 +32,12 @@ h1 {
   border-image: linear-gradient(rgb(243, 11, 166), rgb(231, 114, 19));
   border-image-slice: 1;
 }
+#t-center{
+    text-align: center;
+}
+.hal {
+    width: 30%;
+    padding-left: 2em;}
+.hal img {
+        width: 50%;
+        padding-left: 0px;}
