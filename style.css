@@ -64,5 +64,14 @@ h1 {
     background-position: left;
     background-repeat: no-repeat;
 }
-
+#globack{
+  background-image: url(images/shape-1.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 100px;
+}
+#perback{
+  background-color: black;
+  border-radius: 10px;
+}
 
